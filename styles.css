@@ -1,0 +1,187 @@
+body{
+  background-color: #eceef1;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none
+}
+.clear{
+  clear:both;
+}
+.change-cursor{
+  cursor: pointer;
+}
+.topbar{
+  float: right;
+  font-size: 12px;
+  margin:10px 50px;
+}
+.topbar-text{
+  float: left;
+  text-align: right;
+
+}
+.topbar-button{
+  margin-left: 8px;
+  float: right;
+
+}
+.lock{
+  height:1em;
+  width:0.8em;
+  margin-right:8px;
+}
+
+#sign-in{
+  background-color: #0077c5;
+  padding: 5px 20px;
+}
+#sign-in-text{
+  font-size: 13px;
+  vertical-align: middle;
+  padding-bottom: 5px;
+}
+
+.main-block{
+  width:400px;
+  height:auto;
+
+  margin:0 auto;
+  margin-top: 30px;
+}
+
+#intuit-image{
+  margin-bottom: 20px;
+}
+
+.images-block{
+  text-align: center;
+}
+.images{
+  height: 23px;
+  width: 23px;
+  margin-right: 0px;
+
+}
+.image-detail{
+  margin-right: 4px;
+}
+.form-block{
+  margin-top: 20px;
+  width:100%;
+  background-color: white;
+  height: auto;
+  border: 1px solid #c7c7c7;
+  border-radius: 2px;
+  border-bottom: none;
+
+}
+
+.form-content{
+  display: block;
+
+  padding: 20px;
+  color:#4C4C4C;
+}
+#account-heading{
+  font-size: 24px;
+}
+.form-headings{
+  text-align: center;
+  font-size: 14px;
+}
+#learn-more-link{
+  font-size: 12px;
+}
+#learn-more-link:hover{
+  border:1px dotted blue;
+}
+ul{
+  list-style-type: none;
+}
+.form-area{
+  position: relative;
+  left:-20px;
+  text-align: left;
+}
+.form-area label{
+  color:#404040;
+  font-size: 14px;
+  line-height: 25px;
+}
+.form-area input{
+  width: 320px;
+  min-width: 160px;
+  padding-left: 8px;
+  padding-right: 6px;
+  border:1px solid #c1c5c8;
+  border-radius: 3px;
+  height:34px
+}
+#muted-text{
+  font-size: 10px;
+}
+.space-label{
+  margin-top: 20px;
+}
+#openlock{
+  position: relative;
+  top:-30px;
+  left:90%;
+  height: 20px;
+  width:20px;
+  /* text-align: right; */
+}
+
+#create-account-button{
+  width:100%;
+  text-align: center;
+  background-color: #0077c5;
+  padding: 7px;
+}
+#policies{
+  margin-top: 35px;
+  font-size: 13px;
+  text-align: center;
+}
+.form-footer{
+  font-size: 10px;
+  color:#8d9096;
+  padding: 20px;
+  text-align: center;
+  background-color: #eceef1;
+  width:100%;
+  border: 1px solid #c7c7c7;
+  border-top: none;
+}
+.page-footer{
+  padding:15px;
+  width:800px;
+  margin:0 auto;
+  text-align: center;
+  font-size: 12px;
+  color:#505050;
+}
+.footer-links{
+  color:#505050;
+  margin-right: 4px;
+}
+.footer-links:hover{
+  text-decoration: underline;
+  color:#505050;
+  text-emphasis-color: #505050;
+}
+.privacy-button-container{
+  position: fixed;
+  bottom:0px;
+  right:80px;
+}
+#privacy-button{
+  font-size: 14px;
+  background-color: #6b6c72;
+  padding: 10px 12px;
+
+
+}
